@@ -1,0 +1,60 @@
+technology | Smartphones let people make calls, send messages and browse the internet.
+technology | Cloud computing stores files on remote servers instead of your own computer.
+technology | Artificial intelligence allows machines to learn from data.
+technology | A database is a system used to store and organize information.
+technology | Programmers write code in languages like Python or JavaScript.
+technology | Cybersecurity protects computers and networks from hackers.
+technology | Video game consoles have powerful graphics processors.
+technology | The internet connects billions of devices around the world.
+technology | Electric cars use batteries instead of gasoline engines.
+technology | Robots are used in factories to assemble products.
+technology | Wi-Fi lets devices connect to a network without cables.
+technology | Social media apps let people share photos and videos with friends.
+sports | Soccer is the most popular sport in the world.
+sports | A basketball team has five players on the court.
+sports | Marathon runners train for months to run 42 kilometers.
+sports | Swimming works almost every muscle in the body.
+sports | Tennis players use a racket to hit the ball over the net.
+sports | The Olympic Games happen every four years.
+sports | Baseball players try to hit the ball and run around the bases.
+sports | Cyclists in the Tour de France ride for three weeks.
+sports | Boxers wear gloves and fight inside a ring.
+sports | Volleyball players can touch the ball three times before sending it over.
+sports | A goalkeeper tries to stop the ball from entering the goal.
+sports | Stretching before exercise helps prevent injuries.
+nature | Rainforests are home to more than half of the world's animal species.
+nature | Volcanoes erupt when hot magma rises to the surface.
+nature | Bees help plants grow by carrying pollen from flower to flower.
+nature | The ocean covers about seventy percent of the Earth.
+nature | Trees absorb carbon dioxide and release oxygen.
+nature | Deserts receive very little rain during the year.
+nature | Whales are the largest animals that have ever lived.
+nature | Rivers carry fresh water from the mountains to the sea.
+nature | Autumn leaves change color before falling from the trees.
+nature | Earthquakes happen when tectonic plates move suddenly.
+nature | Coral reefs are colorful underwater ecosystems full of fish.
+nature | Snow falls when the temperature drops below freezing.
+food | Pizza was invented in Italy and is loved all over the world.
+food | Tacos are a traditional Mexican dish made with tortillas.
+food | Sushi combines rice, seaweed and raw fish.
+food | Bread is made by baking a dough of flour, water and yeast.
+food | Fruits and vegetables are an important part of a healthy diet.
+food | Chocolate is made from the seeds of the cacao tree.
+food | Coffee is one of the most consumed drinks in the morning.
+food | Boiling pasta in salted water gives it more flavor.
+food | Spicy food often contains chili peppers.
+food | Ice cream is a frozen dessert made with milk and sugar.
+food | Grilling meat outdoors is common at family gatherings.
+food | Soup is a warm meal that is perfect for cold days.
+music | The guitar has six strings and is used in many music styles.
+music | Mozart was a famous classical composer from Austria.
+music | Rock concerts are usually loud and full of energy.
+music | A piano has eighty-eight black and white keys.
+music | Streaming apps let people listen to millions of songs.
+music | Drummers keep the rhythm of a band.
+music | Singers practice to control their voice and breathing.
+music | An orchestra has violins, flutes, trumpets and many other instruments.
+music | Reggaeton is a popular music genre from Latin America.
+music | Headphones let you listen to music without bothering others.
+music | Learning to read sheet music helps musicians play new songs.
+music | Many people listen to music while they study or work.
